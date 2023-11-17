@@ -1,2 +1,2 @@
 Texto para teste se o repositório troca automaticamente com a troca do arquivo
-Se bem sucedito este texto aparecerá somento no repositório Projeto 1
+Se bem sucedito este texto aparecerá somento no repositório Projeto 1.
